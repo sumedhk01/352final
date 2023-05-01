@@ -1,2 +1,1 @@
-# 352final
-MATH 352 Final Files
+The output files for exercise 2 can be found in the Output directory.
